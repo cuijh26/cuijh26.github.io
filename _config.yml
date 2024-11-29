@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jiahao Cui (崔佳豪)"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : # "images/android-chrome-512x512.png"
   bio              : "Phd candidate at Fudan University; Undergraduate student at Sun Yat-sen University"
   location         : "Shanghai, China"
   employer         :
