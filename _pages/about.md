@@ -25,6 +25,18 @@ I am currently a senior undergraduate student in the [School of Software Enginee
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/hallo3.mp4' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks](https://arxiv.org/abs/2412.00733)
+
+**Jiahao Cui**, Hui Li, Yun Zhan, Hanlin Shang, Kaihui Cheng, Yuqi Ma, Shan Mu, Hang Zhou, Jingdong Wang, Siyu Zhu
+
+[**project**](https://fudan-generative-vision.github.io/hallo3/#/) [**paper**](https://arxiv.org/abs/2412.00733) [**code**](https://github.com/fudan-generative-vision/hallo3)
+- Hallo3 can generate highly realistic avatars with dynamic backgrounds, expressive foregrounds, and various head orientations, which collectively contribute to creating remarkably vivid and lifelike talking head.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/hallo2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -33,10 +45,9 @@ I am currently a senior undergraduate student in the [School of Software Enginee
 **Jiahao Cui**<sup>#</sup>, Hui Li<sup>#</sup>, Yao Yao, Hao Zhu, Hanlin Shang, Kaihui Cheng, Hang Zhou, Siyu Zhu, Jingdong Wang
 
 [**project**](https://fudan-generative-vision.github.io/hallo2/#/) [**paper**](https://arxiv.org/pdf/2410.07718) [**code**](https://github.com/fudan-generative-vision/hallo2)
-- a new avatar video generative model capable of generating stunning 4K resolution videos for up to 1 hour!
+- A new avatar video generative model capable of generating stunning 4K resolution videos for up to 1 hour!
 </div>
 </div>
-
 
 # 🎖 Honors and Awards
 
