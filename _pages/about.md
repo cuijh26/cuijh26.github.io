@@ -32,7 +32,7 @@ I am currently a senior undergraduate student in the [School of Software Enginee
 
 **Jiahao Cui**, Hui Li, Yun Zhan, Hanlin Shang, Kaihui Cheng, Yuqi Ma, Shan Mu, Hang Zhou, Jingdong Wang, Siyu Zhu
 
-[**project**](https://fudan-generative-vision.github.io/hallo3/#/)&emsp;[**paper**](https://arxiv.org/abs/2412.00733)&emsp;[**code**](https://github.com/fudan-generative-vision/hallo3)&ensp;<a href='https://github.com/fudan-generative-vision/hallo3'><img src='https://img.shields.io/github/stars/fudan-generative-vision/hallo3?style=social' width="13%"></a>
+[**project**](https://fudan-generative-vision.github.io/hallo3/#/)&emsp;[**paper**](https://arxiv.org/abs/2412.00733)&emsp;[**code**](https://github.com/fudan-generative-vision/hallo3)&ensp;<a href='https://github.com/fudan-generative-vision/hallo3'><img src='https://img.shields.io/github/stars/fudan-generative-vision/hallo3.svg' width="13%"></a>
 - Hallo3 can generate highly realistic avatars with dynamic backgrounds, expressive foregrounds, and various head orientations, which collectively contribute to creating remarkably vivid and lifelike talking head.
 </div>
 </div>
