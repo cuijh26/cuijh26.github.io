@@ -34,7 +34,7 @@ I am currently a senior undergraduate student in the [School of Software Enginee
 
 [**project**](https://fudan-generative-vision.github.io/hallo3/#/)&emsp;[**paper**](https://arxiv.org/abs/2412.00733)&emsp;[**code**](https://github.com/fudan-generative-vision/hallo3)
 
-<a href='https://github.com/fudan-generative-vision/hallo3'><img src='https://img.shields.io/github/stars/fudan-generative-vision/hallo3.svg' width="20%">&emsp;</a><a href='https://github.com/fudan-generative-vision/hallo3'><img src='https://img.shields.io/github/stars/fudan-generative-vision/hallo3.svg' width="20%"></a>
+<a href='https://github.com/fudan-generative-vision/hallo3'><img src='https://img.shields.io/github/stars/fudan-generative-vision/hallo3.svg' width="17%"></a>&emsp;<a href='https://github.com/fudan-generative-vision/hallo3'><img src='https://img.shields.io/github/forks/fudan-generative-vision/hallo3.svg' width="17%"></a>
 
 - Hallo3 can generate highly realistic avatars with dynamic backgrounds, expressive foregrounds, and various head orientations, which collectively contribute to creating remarkably vivid and lifelike talking head.
 </div>
@@ -49,7 +49,7 @@ I am currently a senior undergraduate student in the [School of Software Enginee
 
 [**project**](https://fudan-generative-vision.github.io/hallo2/#/)&emsp;[**paper**](https://arxiv.org/pdf/2410.07718)&emsp;[**code**](https://github.com/fudan-generative-vision/hallo2)
 
-<a href='https://github.com/fudan-generative-vision/hallo2'><img src='https://img.shields.io/github/stars/fudan-generative-vision/hallo2.svg' width="20%">&emsp;</a><a href='https://github.com/fudan-generative-vision/hallo2'><img src='https://img.shields.io/github/stars/fudan-generative-vision/hallo2.svg' width="20%"></a>
+<a href='https://github.com/fudan-generative-vision/hallo2'><img src='https://img.shields.io/github/stars/fudan-generative-vision/hallo2.svg' width="17%"></a>&emsp;<a href='https://github.com/fudan-generative-vision/hallo2'><img src='https://img.shields.io/github/forks/fudan-generative-vision/hallo2.svg' width="17%"></a>
 
 - A new avatar video generative model capable of generating stunning 4K resolution videos for up to 1 hour!
 </div>
