@@ -35,6 +35,7 @@ I am currently a senior undergraduate student in the [School of Software Enginee
 [**project**](https://fudan-generative-vision.github.io/hallo2/#/) [**paper**](https://arxiv.org/pdf/2410.07718) [**code**](https://github.com/fudan-generative-vision/hallo2)
 - a new avatar video generative model capable of generating stunning 4K resolution videos for up to 1 hour!
 </div>
+</div>
 
 
 # 🎖 Honors and Awards
