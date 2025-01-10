@@ -25,7 +25,17 @@ I am currently a senior undergraduate student in the [School of Software Enginee
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/hallo3.mp4' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">arxiv</div>
+      <video width="100%" controls>
+        <source src="images/hallo3.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
+  </div>
+</div>
 <div class='paper-box-text' markdown="1">
 
 [Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks](https://arxiv.org/abs/2412.00733)
