@@ -30,7 +30,7 @@ I am currently a senior undergraduate student in the [School of Software Enginee
 
 [Hallo2:Long-Duration and High-Resolution Audio-driven Portrait Image Animation](https://arxiv.org/pdf/2410.07718)
 
-**Jiahao Cui**, Hui Li, Yao Yao, Hao Zhu, Hanlin Shang, Kaihui Cheng, Hang Zhou, Siyu Zhu, Jingdong Wang
+**Jiahao Cui**<sup>#</sup>, Hui Li<sup>#</sup>, Yao Yao, Hao Zhu, Hanlin Shang, Kaihui Cheng, Hang Zhou, Siyu Zhu, Jingdong Wang
 
 [**project**](https://fudan-generative-vision.github.io/hallo2/#/) [**paper**](https://arxiv.org/pdf/2410.07718) [**code**](https://github.com/fudan-generative-vision/hallo2)
 - a new avatar video generative model capable of generating stunning 4K resolution videos for up to 1 hour!
