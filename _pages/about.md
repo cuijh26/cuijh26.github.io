@@ -32,7 +32,7 @@ I am currently a senior undergraduate student in the [School of Software Enginee
 
 **Jiahao Cui**, Hui Li, Yun Zhan, Hanlin Shang, Kaihui Cheng, Yuqi Ma, Shan Mu, Hang Zhou, Jingdong Wang, Siyu Zhu
 
-[**project**](https://fudan-generative-vision.github.io/hallo3/#/)&emsp;[**paper**](https://arxiv.org/abs/2412.00733)&emsp;[**code**](https://github.com/fudan-generative-vision/hallo3)&ensp;<a href='https://github.com/fudan-generative-vision/hallo3'><img src='https://img.shields.io/github/stars/fudan-generative-vision/hallo3.svg' width="13%"></a>
+[**project**](https://fudan-generative-vision.github.io/hallo3/#/)&emsp;[**paper**](https://arxiv.org/abs/2412.00733)&emsp;[**code**](https://github.com/fudan-generative-vision/hallo3)&ensp;<a href='https://github.com/fudan-generative-vision/hallo3'><img src='https://img.shields.io/github/stars/fudan-generative-vision/hallo3.svg' width="14%"></a>
 - Hallo3 can generate highly realistic avatars with dynamic backgrounds, expressive foregrounds, and various head orientations, which collectively contribute to creating remarkably vivid and lifelike talking head.
 </div>
 </div>
@@ -44,7 +44,7 @@ I am currently a senior undergraduate student in the [School of Software Enginee
 
 **Jiahao Cui**<sup>#</sup>, Hui Li<sup>#</sup>, Yao Yao, Hao Zhu, Hanlin Shang, Kaihui Cheng, Hang Zhou, Siyu Zhu, Jingdong Wang
 
-[**project**](https://fudan-generative-vision.github.io/hallo2/#/)&emsp;[**paper**](https://arxiv.org/pdf/2410.07718)&emsp;[**code**](https://github.com/fudan-generative-vision/hallo2)&ensp;<a href='https://github.com/fudan-generative-vision/hallo2'><img src='https://img.shields.io/github/stars/fudan-generative-vision/hallo2?style=social' width="13%"></a>
+[**project**](https://fudan-generative-vision.github.io/hallo2/#/)&emsp;[**paper**](https://arxiv.org/pdf/2410.07718)&emsp;[**code**](https://github.com/fudan-generative-vision/hallo2)&ensp;<a href='https://github.com/fudan-generative-vision/hallo2'><img src='https://img.shields.io/github/stars/fudan-generative-vision/hallo2.svg' width="14%"></a>
 - A new avatar video generative model capable of generating stunning 4K resolution videos for up to 1 hour!
 </div>
 </div>
