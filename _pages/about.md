@@ -25,7 +25,7 @@ I am currently a senior undergraduate student in the [School of Software Enginee
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><source src='images/hallo3.mp4' alt="sym" width="100%" type="video/mp4"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><source src='images/hallo3.gif' alt="sym" width="100%" type="video/mp4"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks](https://arxiv.org/abs/2412.00733)
