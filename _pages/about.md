@@ -21,7 +21,7 @@ I am currently a senior undergraduate student in the [School of Software Enginee
 
 
 # 🔥 News
- 
+- *2025.01*: &nbsp;🎉🎉Hallo2 is accepted to ICLR2025!
 
 # 📝 Publications 
 
@@ -40,7 +40,7 @@ I am currently a senior undergraduate student in the [School of Software Enginee
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/hallo2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/hallo2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Hallo2:Long-Duration and High-Resolution Audio-driven Portrait Image Animation](https://arxiv.org/pdf/2410.07718)
