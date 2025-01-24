@@ -21,7 +21,7 @@ I am currently a senior undergraduate student in the [School of Software Enginee
 
 
 # 🔥 News
-- *2025.01*: &nbsp;🎉🎉Hallo2 is accepted to ICLR2025!
+- *2025.01*: &nbsp;🎉🎉Hallo2 is accepted by [ICLR 2025](https://iclr.cc/Conferences/2025)!
 
 # 📝 Publications 
 
