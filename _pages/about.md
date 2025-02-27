@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a senior undergraduate student in the [School of Software Engineering](https://sse.sysu.edu.cn/) at Sun Yat-sen University, and I will be joining the [AI3 Institute](https://ai3.fudan.edu.cn/) of Fudan University in the fall of 2025 to pursue my Ph.D. My research interests include audio-driven talking head generation, as well as controllable and personalized video generation.
+I am currently a final-year undergraduate student at the School of Software Engineering, [Sun Yat-sen University](https://sse.sysu.edu.cn/), and will commence my doctoral studies at the [AI3 Institute](https://ai3.fudan.edu.cn/) of Fudan University in Fall 2025. My research focuses on generative visual models, particularly audio-driven talking head synthesis and controllable personalized video generation.
 
 
 # 🔥 News
@@ -57,13 +57,17 @@ I am currently a senior undergraduate student in the [School of Software Enginee
 </div>
 
 # 🎖 Honors and Awards
+- *2023.12*: National Scholarship
+- *2023.11*: Sun Yat-sen University Outstanding Student Scholarship
+- *2022.12*: National Scholarship
+- *2022.12*: Sun Yat-sen University Outstanding Student Scholarship
 
 
 # 📖 Educations
 - *2025.09 - present*: Ph.D candidate, AI3 Institute, Fudan University. 
 - *2021.09 - present*: Undergraduate student, School of Software Engineering, Sun Yat-sen University. 
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks -->
 
 
 <!-- # 💻 Internships
