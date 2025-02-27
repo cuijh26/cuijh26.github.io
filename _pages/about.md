@@ -67,7 +67,8 @@ I am currently a final-year undergraduate student at the School of Software Engi
 - *2025.09 - present*: Ph.D candidate, AI3 Institute, Fudan University. 
 - *2021.09 - present*: Undergraduate student, School of Software Engineering, Sun Yat-sen University. 
 
-<!-- # 💬 Invited Talks -->
+# 💬 Services
+- **Reviewer**: ICCV 2025
 
 
 <!-- # 💻 Internships
