@@ -57,9 +57,9 @@ I am currently a final-year undergraduate student at the [School of Software Eng
 
 # 🎖 Honors and Awards
 - *2023.12*: National Scholarship
-- *2023.11*: Sun Yat-sen University Outstanding Student Scholarship
+- *2023.11*: Sun Yat-sen University Outstanding Student Scholarship, First Class
 - *2022.12*: National Scholarship
-- *2022.12*: Sun Yat-sen University Outstanding Student Scholarship
+- *2022.12*: Sun Yat-sen University Outstanding Student Scholarship, First Class
 
 
 # 📖 Educations
