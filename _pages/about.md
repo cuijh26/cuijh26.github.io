@@ -21,11 +21,12 @@ I am currently a senior undergraduate student in the [School of Software Enginee
 
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉Hallo3 is accepted by [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025)!
 - *2025.01*: &nbsp;🎉🎉Hallo2 is accepted by [ICLR 2025](https://iclr.cc/Conferences/2025)!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/hallo3.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/hallo3.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks](https://arxiv.org/abs/2412.00733)
@@ -45,7 +46,7 @@ I am currently a senior undergraduate student in the [School of Software Enginee
 
 [Hallo2:Long-Duration and High-Resolution Audio-driven Portrait Image Animation](https://arxiv.org/pdf/2410.07718)
 
-**Jiahao Cui**<sup>#</sup>, Hui Li<sup>#</sup>, Yao Yao, Hao Zhu, Hanlin Shang, Kaihui Cheng, Hang Zhou, Siyu Zhu, Jingdong Wang
+**Jiahao Cui**<sup>\*</sup>, Hui Li<sup>\*</sup>, Yao Yao, Hao Zhu, Hanlin Shang, Kaihui Cheng, Hang Zhou, Siyu Zhu, Jingdong Wang
 
 [**project**](https://fudan-generative-vision.github.io/hallo2/#/)&emsp;[**paper**](https://arxiv.org/pdf/2410.07718)&emsp;[**code**](https://github.com/fudan-generative-vision/hallo2)
 
