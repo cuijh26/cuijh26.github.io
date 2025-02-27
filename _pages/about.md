@@ -21,8 +21,8 @@ I am currently a final-year undergraduate student at the School of Software Engi
 
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉Hallo3 is accepted by [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025)!
-- *2025.01*: &nbsp;🎉🎉Hallo2 is accepted by [ICLR 2025](https://iclr.cc/Conferences/2025)!
+- *2025.02*: &nbsp;🎉🎉&nbsp;Hallo3 is accepted by [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025)!
+- *2025.01*: &nbsp;🎉🎉&nbsp;Hallo2 is accepted by [ICLR 2025](https://iclr.cc/Conferences/2025)!
 
 # 📝 Publications 
 
