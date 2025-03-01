@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a final-year undergraduate student at the [School of Software Engineering](https://sse.sysu.edu.cn/), Sun Yat-sen University, and will commence my doctoral studies at the [AI3 Institute](https://ai3.fudan.edu.cn/) of Fudan University in Fall 2025. My research focuses on generative visual models, particularly audio-driven talking head synthesis and controllable personalized video generation.
+I am currently a final-year undergraduate student at the [School of Software Engineering](https://sse.sysu.edu.cn/), Sun Yat-sen University, and will commence my doctoral studies at the [AI3 Institute](https://ai3.fudan.edu.cn/) of Fudan University in Fall 2025. My research focuses on vision generative models, particularly audio-driven talking head synthesis and efficient and controllable video generation.
 
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉&nbsp;Hallo3 is accepted by [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025)!
-- *2025.01*: &nbsp;🎉🎉&nbsp;Hallo2 is accepted by [ICLR 2025](https://iclr.cc/Conferences/2025)!
+- *2025.02*: &nbsp;🎉🎉&nbsp;Hallo3 is accepted by [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025) !
+- *2025.01*: &nbsp;🎉🎉&nbsp;Hallo2 is accepted by [ICLR 2025](https://iclr.cc/Conferences/2025) !
 
 # 📝 Publications 
 
