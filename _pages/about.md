@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a final-year undergraduate student at the [School of Software Engineering](https://sse.sysu.edu.cn/), Sun Yat-sen University, and will commence my doctoral studies at the [AI3 Institute](https://ai3.fudan.edu.cn/) of Fudan University in Fall 2025. My research focuses on vision generative models, particularly audio-driven talking head synthesis and efficient and controllable video generation.
+I am currently a final-year undergraduate student at the [School of Software Engineering](https://sse.sysu.edu.cn/), Sun Yat-sen University, and will commence my doctoral studies at the [AI3 Institute](https://ai3.fudan.edu.cn/) of Fudan University in Fall 2025. My research focuses on vision generative models, particularly audio-driven talking head synthesis and efficient image/video generation.
 
 
 # 🔥 News
