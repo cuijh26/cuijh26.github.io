@@ -24,7 +24,7 @@ I am currently a final-year undergraduate student at the [School of Software Eng
 - _2025.01_: &nbsp; 🎉🎉&nbsp; Hallo2 is accepted by [ICLR 2025](https://iclr.cc/Conferences/2025).
 
 # 📝 Publications
-
+<!-- Hallo3 -->
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
@@ -44,22 +44,28 @@ I am currently a final-year undergraduate student at the [School of Software Eng
             </table>
         </div>
     </div>
-    <div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1">
 
-    [Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Video Diffusion Transformer](https://arxiv.org/abs/2412.00733)
+[Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Video Diffusion Transformer](https://arxiv.org/abs/2412.00733)
 
-    **Jiahao Cui**, Hui Li, Yun Zhan, Hanlin Shang, Kaihui Cheng, Yuqi Ma, Shan Mu, Hang Zhou, Jingdong Wang, Siyu Zhu
+**Jiahao Cui**, Hui Li, Yun Zhan, Hanlin Shang, Kaihui Cheng, Yuqi Ma, Shan Mu, Hang Zhou, Jingdong Wang, Siyu Zhu
 
-    [**project**](https://fudan-generative-vision.github.io/hallo3/#/)&emsp; [**paper**](https://arxiv.org/abs/2412.00733)&emsp; [**code**](https://github.com/fudan-generative-vision/hallo3)
+[**project**](https://fudan-generative-vision.github.io/hallo3/#/)&emsp; [**paper**](https://arxiv.org/abs/2412.00733)&emsp; [**code**](https://github.com/fudan-generative-vision/hallo3)
 
-    <a href='https://github.com/fudan-generative-vision/hallo3'><img src='https://img.shields.io/github/stars/fudan-generative-vision/hallo3.svg' width="15%"></a>&emsp;
+<a href='https://github.com/fudan-generative-vision/hallo3'><img src='https://img.shields.io/github/stars/fudan-generative-vision/hallo3.svg' width="15%"></a>&emsp;
 
-    - Hallo3 can generate highly realistic avatars with dynamic backgrounds, expressive foregrounds, and various head orientations, which collectively contribute to creating remarkably vivid and lifelike talking head.
-    
+- Hallo3 can generate highly realistic avatars with dynamic backgrounds, expressive foregrounds, and various head orientations, which collectively contribute to creating remarkably vivid and lifelike talking head.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/hallo2.png' alt="sym" width="100%"></div></div>
+<!-- Hallo2 -->
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">ICLR 2025</div>
+            <img src='images/hallo2.png' alt="sym" width="100%">
+        </div>
+    </div>
 <div class='paper-box-text' markdown="1">
 
 [Hallo2: Long-Duration and High-Resolution Audio-driven Portrait Image Animation](https://arxiv.org/pdf/2410.07718)
