@@ -26,13 +26,10 @@ I am currently a final-year undergraduate student at the [School of Software Eng
 
 # 📝 Publications 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/hallo3.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
             <div class="badge">CVPR 2025</div>
-            <!-- 替换为视频表格 -->
             <table align='center' border="0" style="width: 100%; text-align: center;">
                 <tr>
                     <td>
