@@ -33,7 +33,7 @@ I am currently a final-year undergraduate student at the [School of Software Eng
         <div>
             <div class="badge">CVPR 2025</div>
             <!-- 替换为视频表格 -->
-            <table align='center' border="0" style="width: 100%; text-align: center; margin-top: 80px;">
+            <table align='center' border="0" style="width: 100%; text-align: center;">
                 <tr>
                     <td>
                         <video align='center' 
