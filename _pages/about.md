@@ -50,7 +50,7 @@ I am currently a final-year undergraduate student at the [School of Software Eng
     </div>
   <div class='paper-box-text' markdown="1">
 
-[Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks](https://arxiv.org/abs/2412.00733)
+[Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Video Diffusion Transformer](https://arxiv.org/abs/2412.00733)
 
 **Jiahao Cui**, Hui Li, Yun Zhan, Hanlin Shang, Kaihui Cheng, Yuqi Ma, Shan Mu, Hang Zhou, Jingdong Wang, Siyu Zhu
 
