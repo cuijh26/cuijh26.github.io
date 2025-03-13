@@ -26,8 +26,29 @@ I am currently a final-year undergraduate student at the [School of Software Eng
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/hallo3.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/hallo3.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">CVPR 2025</div>
+            <!-- 替换为视频表格 -->
+            <table align='center' border="0" style="width: 100%; text-align: center; margin-top: 80px;">
+                <tr>
+                    <td>
+                        <video align='center' 
+                               src="https://github.com/user-attachments/assets/f14bf935-ceaa-4dae-98b9-d7e54633475d" 
+                               muted 
+                               autoplay 
+                               loop
+                               style="width: 100%; max-width: 600px; display: block; margin: 0 auto;">
+                        </video>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+  <div class='paper-box-text' markdown="1">
 
 [Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks](https://arxiv.org/abs/2412.00733)
 
