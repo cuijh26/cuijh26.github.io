@@ -46,15 +46,12 @@ I am currently a final-year undergraduate student at the [School of Software Eng
         </div>
     </div>
     <div class='paper-box-text' markdown="1">
-        ​**[Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Video Diffusion Transformer](https://arxiv.org/abs/2412.00733)**  
+        [Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Video Diffusion Transformer](https://arxiv.org/abs/2412.00733) 
         ​**Jiahao Cui**, Hui Li, Yun Zhan, Hanlin Shang, Kaihui Cheng, Yuqi Ma, Shan Mu, Hang Zhou, Jingdong Wang, Siyu Zhu  
-        [**Project**](https://fudan-generative-vision.github.io/hallo3/#/) | 
-        [**Paper**](https://arxiv.org/abs/2412.00733) | 
-        [**Code**](https://github.com/fudan-generative-vision/hallo3)  
+        [**project**](https://fudan-generative-vision.github.io/hallo3/#/)&emsp; [**paper**](https://arxiv.org/abs/2412.00733)&emsp; [**code**](https://github.com/fudan-generative-vision/hallo3) 
         <a href='https://github.com/fudan-generative-vision/hallo3'><img src='https://img.shields.io/github/stars/fudan-generative-vision/hallo3.svg' width="15%"></a>
         
-        - Generates realistic avatars with dynamic backgrounds and expressive foregrounds
-        - Supports various head orientations for lifelike talking head synthesis
+        - Hallo3 can generate highly realistic avatars with dynamic backgrounds, expressive foregrounds, and various head orientations, which collectively contribute to creating remarkably vivid and lifelike talking head.
     </div>
 </div>
 
