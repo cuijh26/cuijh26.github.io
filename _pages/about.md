@@ -25,7 +25,40 @@ I am currently a final-year undergraduate student at the [School of Software Eng
 
 # 📝 Publications
 
+<!-- Hallo3 -->
 <div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">CVPR 2025</div>
+            <table align='center' border="0" style="width: 100%; text-align: center;">
+                <tr>
+                    <td>
+                        <video align='center' 
+                               src="https://github.com/user-attachments/assets/f14bf935-ceaa-4dae-98b9-d7e54633475d"
+                               muted 
+                               autoplay 
+                               loop
+                               style="width: 100%; max-width: 600px; display: block; margin: 0 auto;">
+                        </video>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <div class='paper-box-text' markdown="1">
+        ​**[Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Video Diffusion Transformer](https://arxiv.org/abs/2412.00733)**  
+        ​**Jiahao Cui**, Hui Li, Yun Zhan, Hanlin Shang, Kaihui Cheng, Yuqi Ma, Shan Mu, Hang Zhou, Jingdong Wang, Siyu Zhu  
+        [**Project**](https://fudan-generative-vision.github.io/hallo3/#/) | 
+        [**Paper**](https://arxiv.org/abs/2412.00733) | 
+        [**Code**](https://github.com/fudan-generative-vision/hallo3)  
+        <a href='https://github.com/fudan-generative-vision/hallo3'><img src='https://img.shields.io/github/stars/fudan-generative-vision/hallo3.svg' width="15%"></a>
+        
+        - Generates realistic avatars with dynamic backgrounds and expressive foregrounds
+        - Supports various head orientations for lifelike talking head synthesis
+    </div>
+</div>
+
+<!-- <div class='paper-box'>
 
     <div class='paper-box-image'>
         <div>
@@ -58,7 +91,7 @@ I am currently a final-year undergraduate student at the [School of Software Eng
 
 - Hallo3 can generate highly realistic avatars with dynamic backgrounds, expressive foregrounds, and various head orientations, which collectively contribute to creating remarkably vivid and lifelike talking head.
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/hallo2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
