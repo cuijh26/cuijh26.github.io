@@ -63,7 +63,7 @@ I am currently a final-year undergraduate student at the [School of Software Eng
     <div class='paper-box-image'>
         <div>
             <div class="badge">ICLR 2025</div>
-            <img src='images/hallo2.png' alt="sym" width="100%">
+            <img src='https://cdn.aondata.work/hallo2/images/teaser.jpg' alt="sym" width="100%">
         </div>
     </div>
 <div class='paper-box-text' markdown="1">
