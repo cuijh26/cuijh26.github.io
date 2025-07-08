@@ -90,11 +90,11 @@ I am currently a final-year undergraduate student at the [School of Software Eng
 # 📖 Educations
 
 - _2025.09 - present_: Ph. D candidate, AI3 Institute, Fudan University.
-- _2021.09 - present_: Undergraduate student, School of Software Engineering, Sun Yat-sen University.
+- _2021.09 - _2025.06: Undergraduate student, School of Software Engineering, Sun Yat-sen University.
 
 # 💬 Services
 
-- **Reviewer**: ICCV 2025
+- **Reviewer**: SIGGRAPH Asia 2025
 
 <!-- # 💻 Internships
 * *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
