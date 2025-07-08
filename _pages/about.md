@@ -16,7 +16,7 @@ redirect_from: + /about/
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a final-year undergraduate student at the [School of Software Engineering](https://sse.sysu.edu.cn/), Sun Yat-sen University, and will commence my doctoral studies at the [AI3 Institute](https://ai3.fudan.edu.cn/) of Fudan University in Fall 2025. My research focuses on Vision Generative Models, Multi-modal Large Language Model and Unified Model.
+I am currently a final-year undergraduate student at the [School of Software Engineering](https://sse.sysu.edu.cn/), Sun Yat-sen University, and will commence my doctoral studies at the [AI3 Institute](https://ai3.fudan.edu.cn/) of Fudan University in Fall 2025. My research focuses on Vision Generative Model, Multi-modal Large Language Model and Unified Model.
 
 # 🔥 News
 
