@@ -89,7 +89,7 @@ I am currently a final-year undergraduate student at the [School of Software Eng
 
 # 📖 Educations
 
-- _2025.09 - present_: Ph. D candidate, AI3 Institute, Fudan University.
+- _2025.09 - present_: Ph.D student, AI3 Institute, Fudan University.
 - _2021.09 - 2025.06_: Undergraduate student, School of Software Engineering, Sun Yat-sen University.
 
 # 💻 Internships
