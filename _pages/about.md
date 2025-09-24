@@ -117,7 +117,7 @@ I am currently a first-year Ph.D. student at the [AI3 Institute](https://ai3.fud
 
 # 💻 Internships
 
-- _2025.06 - present_: PCG ARCLab, Tencent, China.
+- _2025.06 - 2025.09_: PCG ARCLab, Tencent, China.
 
 # 💬 Services
 
