@@ -43,7 +43,7 @@ I am currently a first-year Ph.D. student at the [AI3 Institute](https://ai3.fud
 
 <a href='https://github.com/fudan-generative-vision/hallo4'><img src='https://img.shields.io/github/stars/fudan-generative-vision/hallo4.svg' width="15%"></a>&emsp;
 
-- Powered by DPO, Halla4 generates lifelike audio-driven avatar videos with rich emotional expression and highly accurate synchronization.
+- Powered by DPO, Halla4 generates lifelike audio-driven avatar videos with rich emotional expression and highly accurate lip synchronization.
 </div>
 </div>
 
