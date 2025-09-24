@@ -39,7 +39,7 @@ I am currently a first-year Ph.D. student at the [AI3 Institute](https://ai3.fud
 
 **Jiahao Cui**<sup>\*</sup>, Yan Chen<sup>\*</sup>, Mingwang Xu<sup>\*</sup>, Hanlin Shang, Yuxuan Chen, Yun Zhan, Zilong Dong, Yao Yao, Jingdong Wang, Siyu Zhu
 
-[**project**](https://github.com/xyz123xyz456/hallo4)&emsp; [**paper**](https://arxiv.org/abs/2505.23525)&emsp; [**code**](https://github.com/fudan-generative-vision/hallo4)
+[**project**](https://xyz123xyz456.github.io/hallo4/#/)&emsp; [**paper**](https://arxiv.org/abs/2505.23525)&emsp; [**code**](https://github.com/fudan-generative-vision/hallo4)
 
 <a href='https://github.com/fudan-generative-vision/hallo4'><img src='https://img.shields.io/github/stars/fudan-generative-vision/hallo4.svg' width="15%"></a>&emsp;
 
