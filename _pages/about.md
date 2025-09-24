@@ -16,14 +16,37 @@ redirect_from: + /about/
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a final-year undergraduate student at the [School of Software Engineering](https://sse.sysu.edu.cn/), Sun Yat-sen University, and will commence my doctoral studies at the [AI3 Institute](https://ai3.fudan.edu.cn/) of Fudan University in Fall 2025. My research focuses on Vision Generative Model, Multi-modal Large Language Model and Unified Model.
+I am currently a first-year Ph.D. student at the [AI3 Institute](https://ai3.fudan.edu.cn/) of Fudan University, superiversed by [Prof. Siyu Zhu](https://sites.google.com/site/zhusiyucs/home). Prior to this, I obtained my bachelor’s degree from the [School of Software Engineering](https://sse.sysu.edu.cn/), Sun Yat-sen University. My research focuses on Vision Generative Model, Multi-modal Large Language Model and Unified Model.
 
 # 🔥 News
 
+- _2025.08_: &nbsp; 🎉🎉&nbsp; Hallo4 is accepted by [SIGGRAPH Asia 2025](https://asia.siggraph.org/2025).
 - _2025.02_: &nbsp; 🎉🎉&nbsp; Hallo3 is accepted by [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025).
 - _2025.01_: &nbsp; 🎉🎉&nbsp; Hallo2 is accepted by [ICLR 2025](https://iclr.cc/Conferences/2025).
 
 # 📝 Publications
+<!-- Hallo4 -->
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">SIGGRAPH Asia 2025</div>
+            <img src='https://fusion-lab.oss-cn-shanghai.aliyuncs.com/hallo4/teasers.jpg' alt="sym" width="100%">
+        </div>
+    </div>
+<div class='paper-box-text' markdown="1">
+
+[Hallo4: High-Fidelity Dynamic Portrait Animation via Direct Preference Optimization](https://arxiv.org/abs/2505.23525)
+
+**Jiahao Cui**<sup>\*</sup>, Yan Chen<sup>\*</sup>, Mingwang Xu<sup>\*</sup>, Hanlin Shang, Yuxuan Chen, Yun Zhan, Zilong Dong, Yao Yao, Jingdong Wang, Siyu Zhu
+
+[**project**](https://github.com/xyz123xyz456/hallo4)&emsp; [**paper**](https://arxiv.org/abs/2505.23525)&emsp; [**code**](https://github.com/fudan-generative-vision/hallo4)
+
+<a href='https://github.com/fudan-generative-vision/hallo4'><img src='https://img.shields.io/github/stars/fudan-generative-vision/hallo4.svg' width="15%"></a>&emsp;
+
+- Powered by DPO, Halla4 generates lifelike audio-driven avatar videos with rich emotional expression and highly accurate synchronization.
+</div>
+</div>
+
 <!-- Hallo3 -->
 <div class='paper-box'>
     <div class='paper-box-image'>
