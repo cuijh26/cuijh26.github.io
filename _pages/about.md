@@ -16,7 +16,7 @@ redirect_from: + /about/
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a first-year Ph.D. student at the [AI3 Institute](https://ai3.fudan.edu.cn/) of Fudan University, superiversed by [Prof. Siyu Zhu](https://sites.google.com/site/zhusiyucs/home). Prior to this, I obtained my bachelor’s degree from the [School of Software Engineering](https://sse.sysu.edu.cn/), Sun Yat-sen University. My research focuses on Vision Generative Model, Multi-modal Large Language Model and Unified Model.
+I am currently a first-year Ph.D. student at the [AI3 Institute](https://ai3.fudan.edu.cn/) of Fudan University, supervised by [Prof. Siyu Zhu](https://sites.google.com/site/zhusiyucs/home). Prior to this, I obtained my bachelor’s degree from the [School of Software Engineering](https://sse.sysu.edu.cn/), Sun Yat-sen University. My research focuses on Vision Generative Model, Multi-modal Large Language Model and Unified Model.
 
 # 🔥 News
 
