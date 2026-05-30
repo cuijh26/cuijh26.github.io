@@ -163,8 +163,11 @@ body {
 .page__content .paper-box .paper-box-text a.paper-title:visited {
     border-bottom: 0 !important;
     box-shadow: none !important;
-    color: #3a4148 !important;
-    font-weight: 700 !important;
+    color: #24292f !important;
+    font-family: "Inter", "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    font-weight: 800 !important;
+    letter-spacing: .01em;
+    line-height: 1.28;
     text-decoration: none !important;
 }
 
@@ -172,22 +175,25 @@ body {
 .page__content .paper-box .paper-box-text a.paper-title:focus {
     border-bottom: 0 !important;
     box-shadow: none !important;
-    color: #00369f !important;
+    color: #24292f !important;
     text-decoration: none !important;
 }
 
 .paper-box-text > p:first-of-type a {
     border-bottom: 0 !important;
     box-shadow: none !important;
-    color: #3a4148 !important;
-    font-weight: 700 !important;
+    color: #24292f !important;
+    font-family: "Inter", "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    font-weight: 800 !important;
+    letter-spacing: .01em;
+    line-height: 1.28;
     text-decoration: none !important;
 }
 
 .paper-box-text > p:first-of-type a:hover {
     border-bottom: 0 !important;
     box-shadow: none !important;
-    color: #00369f !important;
+    color: #24292f !important;
     text-decoration: none !important;
 }
 
@@ -312,4 +318,31 @@ h1:before, .anchor:before {
     color: white;
     background-color: #00369f;
     font-size: .8em;
+}
+
+.page__content .paper-box .paper-box-text a.paper-title,
+.page__content .paper-box .paper-box-text a.paper-title:visited,
+.page__content .paper-box .paper-box-text > p:first-of-type a,
+.page__content .paper-box .paper-box-text > p:first-of-type a:visited {
+    border-bottom: 0 !important;
+    box-shadow: none !important;
+    color: #24292f !important;
+    display: block !important;
+    font-family: "Inter", "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    font-size: 1.08em !important;
+    font-weight: 800 !important;
+    letter-spacing: .01em !important;
+    line-height: 1.28 !important;
+    margin-bottom: .45rem !important;
+    text-decoration: none !important;
+}
+
+.page__content .paper-box .paper-box-text a.paper-title:hover,
+.page__content .paper-box .paper-box-text a.paper-title:focus,
+.page__content .paper-box .paper-box-text > p:first-of-type a:hover,
+.page__content .paper-box .paper-box-text > p:first-of-type a:focus {
+    border-bottom: 0 !important;
+    box-shadow: none !important;
+    color: #24292f !important;
+    text-decoration: none !important;
 }
