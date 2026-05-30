@@ -11,26 +11,56 @@
       return count.toString();
     }
 
-    document.querySelectorAll(".github-stars[data-repo]").forEach(function (link) {
-      var repo = link.getAttribute("data-repo");
-      var countNode = link.querySelector(".github-stars-count");
-      if (!repo || !countNode) return;
+    function getStarCount(entry) {
+      if (typeof entry === "number") return entry;
+      if (entry && typeof entry.stargazers_count === "number") return entry.stargazers_count;
+      return null;
+    }
 
-      fetch("https://api.github.com/repos/" + repo)
-        .then(function (response) {
-          if (!response.ok) throw new Error("GitHub API error");
-          return response.json();
-        })
-        .then(function (data) {
-          if (typeof data.stargazers_count === "number") {
-            countNode.textContent = formatStars(data.stargazers_count);
+    function setStarCount(link, countNode, count) {
+      countNode.textContent = formatStars(count);
+      link.classList.remove("github-stars-unavailable", "github-stars-badge");
+    }
+
+    function setBadgeFallback(link, repo) {
+      var img = document.createElement("img");
+      img.src = "https://img.shields.io/github/stars/" + repo + "?style=social";
+      img.alt = "GitHub stars";
+      img.loading = "lazy";
+
+      link.textContent = "";
+      link.appendChild(img);
+      link.classList.add("github-stars-badge");
+      link.classList.remove("github-stars-unavailable");
+    }
+
+    var links = Array.prototype.slice.call(document.querySelectorAll(".github-stars[data-repo]"));
+    if (!links.length) return;
+
+    fetch("{{ '/assets/data/github-stars.json' | relative_url }}", { cache: "no-store" })
+      .then(function (response) {
+        if (!response.ok) throw new Error("GitHub star cache unavailable");
+        return response.json();
+      })
+      .then(function (data) {
+        links.forEach(function (link) {
+          var repo = link.getAttribute("data-repo");
+          var countNode = link.querySelector(".github-stars-count");
+          var count = getStarCount(data && data.repos && data.repos[repo]);
+
+          if (repo && countNode && count !== null) {
+            setStarCount(link, countNode, count);
+          } else if (repo) {
+            setBadgeFallback(link, repo);
           }
-        })
-        .catch(function () {
-          countNode.textContent = "";
-          link.classList.add("github-stars-unavailable");
         });
-    });
+      })
+      .catch(function () {
+        links.forEach(function (link) {
+          var repo = link.getAttribute("data-repo");
+          if (repo) setBadgeFallback(link, repo);
+        });
+      });
   })();
 </script>
 
