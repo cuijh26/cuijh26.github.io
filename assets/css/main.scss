@@ -155,6 +155,21 @@ body {
 
 }
 
+.paper-box-text > p:first-of-type {
+    margin-bottom: .45rem;
+}
+
+.paper-box-text > p:first-of-type a {
+    color: #3a4148;
+    font-weight: 700;
+    text-decoration: none !important;
+}
+
+.paper-box-text > p:first-of-type a:hover {
+    color: #00369f;
+    text-decoration: none !important;
+}
+
 .paper-links {
     display: flex;
     flex-wrap: wrap;
