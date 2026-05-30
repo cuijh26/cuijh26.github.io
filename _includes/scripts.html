@@ -1,4 +1,38 @@
 <script src="assets/js/main.min.js"></script>
+<script>
+  (function () {
+    function formatStars(count) {
+      if (count >= 10000) {
+        return Math.round(count / 1000) + "k";
+      }
+      if (count >= 1000) {
+        return (count / 1000).toFixed(1).replace(/\.0$/, "") + "k";
+      }
+      return count.toString();
+    }
+
+    document.querySelectorAll(".github-stars[data-repo]").forEach(function (link) {
+      var repo = link.getAttribute("data-repo");
+      var countNode = link.querySelector(".github-stars-count");
+      if (!repo || !countNode) return;
+
+      fetch("https://api.github.com/repos/" + repo)
+        .then(function (response) {
+          if (!response.ok) throw new Error("GitHub API error");
+          return response.json();
+        })
+        .then(function (data) {
+          if (typeof data.stargazers_count === "number") {
+            countNode.textContent = formatStars(data.stargazers_count);
+          }
+        })
+        .catch(function () {
+          countNode.textContent = "";
+          link.classList.add("github-stars-unavailable");
+        });
+    });
+  })();
+</script>
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
