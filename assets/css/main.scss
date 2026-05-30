@@ -132,6 +132,11 @@ body {
   box-shadow: none !important;
 }
 
+.page__content .paper-box .paper-box-text strong {
+  color: #1e2528 !important;
+  font-weight: 800 !important;
+}
+
 .paper-links {
   display: flex;
   flex-wrap: wrap;
