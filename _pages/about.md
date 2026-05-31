@@ -38,7 +38,7 @@ I am currently a first-year Ph.D. student at the [AI3 Institute](https://ai3.fud
 
 <a class="paper-title" href="https://arxiv.org/abs/2512.11872">WAM-Diff: A Masked Diffusion VLA Framework with MoE and Online Reinforcement Learning for Autonomous Driving</a>
 
-Mingwang Xu<sup>\*</sup>, **Jiahao Cui**<sup>\*</sup>, Feipeng Cai<sup>\*</sup>, Hanlin Shang<sup>\*</sup>, Zhihao Zhu, Shan Luan, Yifang Xu, Neng Zhang, Yaoyi Li, Jia Cai, Siyu Zhu
+Mingwang Xu<sup>\*</sup>, **Jiahao Cui<sup>\*</sup>**, Feipeng Cai<sup>\*</sup>, Hanlin Shang<sup>\*</sup>, Zhihao Zhu, Shan Luan, Yifang Xu, Neng Zhang, Yaoyi Li, Jia Cai, Siyu Zhu
 
 <div class="paper-links">
     <a class="paper-link" href="https://arxiv.org/abs/2512.11872">paper</a>
@@ -64,7 +64,7 @@ Mingwang Xu<sup>\*</sup>, **Jiahao Cui**<sup>\*</sup>, Feipeng Cai<sup>\*</sup>,
 
 <a class="paper-title" href="https://arxiv.org/abs/2512.06112">WAM-Flow: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving</a>
 
-Yifang Xu<sup>\*</sup>, **Jiahao Cui**<sup>\*</sup>, Zhihao Zhu<sup>\*</sup>, Hanlin Shang, Shan Luan, Mingwang Xu, Feipeng Cai, Neng Zhang, Yaoyi Li, Jia Cai, Siyu Zhu
+Yifang Xu<sup>\*</sup>, **Jiahao Cui<sup>\*</sup>**, Zhihao Zhu<sup>\*</sup>, Hanlin Shang, Shan Luan, Mingwang Xu, Feipeng Cai, Neng Zhang, Yaoyi Li, Jia Cai, Siyu Zhu
 
 <div class="paper-links">
     <a class="paper-link" href="https://arxiv.org/abs/2512.06112">paper</a>
@@ -90,7 +90,7 @@ Yifang Xu<sup>\*</sup>, **Jiahao Cui**<sup>\*</sup>, Zhihao Zhu<sup>\*</sup>, Ha
 
 <a class="paper-title" href="https://arxiv.org/abs/2505.23525">Hallo4: High-Fidelity Dynamic Portrait Animation via Direct Preference Optimization</a>
 
-**Jiahao Cui**<sup>\*</sup>, Yan Chen<sup>\*</sup>, Mingwang Xu<sup>\*</sup>, Hanlin Shang, Yuxuan Chen, Yun Zhan, Zilong Dong, Yao Yao, Jingdong Wang, Siyu Zhu
+**Jiahao Cui<sup>\*</sup>**, Yan Chen<sup>\*</sup>, Mingwang Xu<sup>\*</sup>, Hanlin Shang, Yuxuan Chen, Yun Zhan, Zilong Dong, Yao Yao, Jingdong Wang, Siyu Zhu
 
 <div class="paper-links">
     <a class="paper-link" href="https://xyz123xyz456.github.io/hallo4/#/">project</a>
@@ -156,7 +156,7 @@ Yifang Xu<sup>\*</sup>, **Jiahao Cui**<sup>\*</sup>, Zhihao Zhu<sup>\*</sup>, Ha
 
 <a class="paper-title" href="https://arxiv.org/pdf/2410.07718">Hallo2: Long-Duration and High-Resolution Audio-driven Portrait Image Animation</a>
 
-**Jiahao Cui**<sup>\*</sup>, Hui Li<sup>\*</sup>, Yao Yao, Hao Zhu, Hanlin Shang, Kaihui Cheng, Hang Zhou, Siyu Zhu, Jingdong Wang
+**Jiahao Cui<sup>\*</sup>**, Hui Li<sup>\*</sup>, Yao Yao, Hao Zhu, Hanlin Shang, Kaihui Cheng, Hang Zhou, Siyu Zhu, Jingdong Wang
 
 <div class="paper-links">
     <a class="paper-link" href="https://fudan-generative-vision.github.io/hallo2/#/">project</a>
