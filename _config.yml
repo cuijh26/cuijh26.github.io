@@ -91,6 +91,7 @@ exclude:
   - node_modules
   - package.json
   - tmp
+  - test
   - vendor
 keep_files:
   - .git

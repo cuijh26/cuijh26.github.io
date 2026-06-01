@@ -42,16 +42,7 @@ body {
 }
 
 .masthead .greedy-nav a {
-  &:focus {
-    outline: none;
-  }
-
-  &:focus-visible {
-    border-radius: 3px;
-    box-shadow: 0 0 0 3px rgba(0, 54, 159, .14);
-    outline: 2px solid #00369f;
-    outline-offset: 2px;
-  }
+  @include blue-focus-visible;
 }
 
 .paper-box {
@@ -179,15 +170,7 @@ body {
   line-height: 1;
   text-decoration: none !important;
 
-  &:focus {
-    outline: none;
-  }
-
-  &:focus-visible {
-    outline: 2px solid #00369f;
-    outline-offset: 2px;
-    box-shadow: 0 0 0 3px rgba(0, 54, 159, .14);
-  }
+  @include blue-focus-visible;
 }
 
 .paper-link {
