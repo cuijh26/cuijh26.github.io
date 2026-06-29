@@ -3,11 +3,14 @@
    ========================================================================== */
 
 %tab-focus {
-  /* Default*/
-  outline: thin dotted $warning-color;
-  /* Webkit*/
-  outline: 5px auto $warning-color;
-  outline-offset: -2px;
+  outline: none;
+
+  &:focus-visible {
+    border-radius: 3px;
+    box-shadow: 0 0 0 3px rgba(0, 54, 159, .14);
+    outline: 2px solid #00369f;
+    outline-offset: 2px;
+  }
 }
 
 @mixin blue-focus-visible {
