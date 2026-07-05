@@ -149,7 +149,7 @@ Yifang Xu<sup>\*</sup>, **Jiahao Cui<sup>\*</sup>**, Zhihao Zhu<sup>\*</sup>, Ha
     <div class='paper-box-image'>
         <div>
             <div class="badge">ICLR 2025</div>
-            <img src='https://cdn.aondata.work/hallo2/images/teaser.jpg' alt="sym" width="100%">
+            <img src='https://raw.githubusercontent.com/fudan-generative-vision/hallo2/main/assets/framework_2.jpg' alt="sym" width="100%">
         </div>
     </div>
 <div class='paper-box-text' markdown="1">
