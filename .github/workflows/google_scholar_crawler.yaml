@@ -8,16 +8,21 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v7
+    - uses: actions/setup-python@v7
+      with:
+        python-version: '3.12'
+        cache: pip
+        cache-dependency-path: google_scholar_crawler/requirements.txt
     - name: Install Reqs
       run: |
-        sudo apt-get install python3-setuptools
+        python -m pip install -r google_scholar_crawler/requirements.txt
     - name: Run
       run: |
         cd ./google_scholar_crawler
-        pip3 install -r requirements.txt
-        python3 main.py
+        python main.py
         cd ./results
         git init
         git config --local user.name "${GITHUB_ACTOR}"
