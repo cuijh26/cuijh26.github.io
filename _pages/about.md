@@ -7,13 +7,6 @@ redirect_from: + /about/
   + /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 I am currently a first-year Ph.D. student at the [AI3 Institute](https://ai3.fudan.edu.cn/) of Fudan University, supervised by [Prof. Siyu Zhu](https://sites.google.com/site/zhusiyucs/home). Prior to this, I obtained my bachelor’s degree from the [School of Software Engineering](https://sse.sysu.edu.cn/), Sun Yat-sen University. My research focuses on **Vision Generative Models**, **World Models**, and **Vision-Language-Action Models**.
