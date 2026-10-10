@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-09T20:24:11.181Z",
+  "updated_at": "2026-10-10T19:38:05.089Z",
   "repos": {
     "fudan-generative-vision/WAM-Diff": {
       "stargazers_count": 300
     },
     "fudan-generative-vision/WAM-Flow": {
-      "stargazers_count": 369
+      "stargazers_count": 371
     },
     "fudan-generative-vision/hallo4": {
       "stargazers_count": 38
@@ -14,7 +14,7 @@
       "stargazers_count": 1407
     },
     "fudan-generative-vision/hallo2": {
-      "stargazers_count": 3742
+      "stargazers_count": 3743
     }
   }
 }
