@@ -13,7 +13,7 @@ I am currently a second-year Ph.D. student at the [AI3 Institute](https://ai3.fu
 
 <section class="news-layout" aria-labelledby="-news">
 <div class="news-panel" data-visible-count="5">
-<h1 id="-news" class="news-heading"><i class="fas fa-newspaper" aria-hidden="true"></i>News</h1>
+<h1 id="-news" class="section-heading news-heading"><i class="fas fa-newspaper section-icon" aria-hidden="true"></i>News</h1>
 
 <div class="news-viewport" id="news-window" role="region" aria-label="News updates" tabindex="0">
 <ul class="news-timeline" id="news-list">
@@ -43,7 +43,7 @@ I am currently a second-year Ph.D. student at the [AI3 Institute](https://ai3.fu
 </div>
 
 <aside class="research-focus" aria-labelledby="research-focus-title">
-    <h2 id="research-focus-title">Research Focus</h2>
+    <h2 id="research-focus-title" class="section-heading"><i class="fas fa-bullseye section-icon" aria-hidden="true"></i>Research Focus</h2>
     <p>My research connects world models, vision-language-action models, and portrait video generation through diffusion, flow matching, and reinforcement learning.</p>
     <div class="research-topics">
         <a class="research-topic" href="#wam-sim">
@@ -62,7 +62,7 @@ I am currently a second-year Ph.D. student at the [AI3 Institute](https://ai3.fu
 </aside>
 </section>
 
-# 📝 Publications
+<h1 id="-publications" class="section-heading"><i class="fas fa-file-alt section-icon" aria-hidden="true"></i>Publications</h1>
 <!-- WAM-Sim0.1 -->
 <div class='paper-box' id="wam-sim">
     <div class='paper-box-image'>
@@ -234,7 +234,7 @@ Yifang Xu<sup>\*</sup>, **Jiahao Cui<sup>\*</sup>**, Zhihao Zhu<sup>\*</sup>, Ha
 </div>
 </div>
 
-# 🎖 Honors and Awards
+<h1 id="-honors-and-awards" class="section-heading"><i class="fas fa-award section-icon" aria-hidden="true"></i>Honors and Awards</h1>
 
 - _2025.12_: National Scholarship for Ph.D. Students
 - _2023.12_: National Scholarship
@@ -242,16 +242,16 @@ Yifang Xu<sup>\*</sup>, **Jiahao Cui<sup>\*</sup>**, Zhihao Zhu<sup>\*</sup>, Ha
 - _2022.12_: National Scholarship
 - _2022.12_: Sun Yat-sen University Outstanding Student Scholarship, First Class
 
-# 📖 Educations
+<h1 id="-educations" class="section-heading"><i class="fas fa-graduation-cap section-icon" aria-hidden="true"></i>Educations</h1>
 
 - _2025.09 - present_: Ph.D student, AI3 Institute, Fudan University.
 - _2021.09 - 2025.06_: Undergraduate student, School of Software Engineering, Sun Yat-sen University.
 
-# 💻 Internships
+<h1 id="-internships" class="section-heading"><i class="fas fa-briefcase section-icon" aria-hidden="true"></i>Internships</h1>
 
 - _2025.09 - present_: 2030 Lab, YINWANG, China.
 - _2025.06 - 2025.09_: PCG ARCLab, Tencent, China.
 
-# 💬 Services
+<h1 id="-services" class="section-heading"><i class="fas fa-users section-icon" aria-hidden="true"></i>Services</h1>
 
 - **Reviewer**: SIGGRAPH Asia 2025, CVPR 2026, ECCV 2026.

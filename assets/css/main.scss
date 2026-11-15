@@ -65,23 +65,28 @@ h1, h2, h3, h4, h5, h6 {
   min-width: 0;
 }
 
-.page__content .news-heading {
+.page__content .section-heading {
   display: flex;
   align-items: center;
-  margin: 0 0 .9rem;
+  gap: 12px;
   scroll-margin-top: 80px;
 
   &::before {
     display: none;
   }
 
-  .fa-newspaper {
+  .section-icon {
+    flex: 0 0 20px;
     width: 20px;
-    margin-right: 12px;
     color: #00369f;
     font-size: 20px;
+    line-height: 1;
     text-align: center;
   }
+}
+
+.page__content .news-heading {
+  margin: 0 0 .9rem;
 }
 
 .news-viewport {
