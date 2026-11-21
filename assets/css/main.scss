@@ -92,7 +92,7 @@ h1, h2, h3, h4, h5, h6 {
 .news-viewport {
   overflow-x: hidden;
   overflow-y: auto;
-  overscroll-behavior-y: contain;
+  overscroll-behavior-y: auto;
   scrollbar-gutter: stable;
   scrollbar-width: thin;
   scrollbar-color: #c2ccda transparent;
